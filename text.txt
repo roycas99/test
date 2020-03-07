@@ -2,4 +2,6 @@ kac kac hurdada ka kac
 kkkkkkk
 wow wow 
 i made some changes hope u see.
+<<<<<<< HEAD
 git gub vs git
+>>>>>>> master
